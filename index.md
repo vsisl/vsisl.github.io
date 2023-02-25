@@ -41,13 +41,13 @@ Address:
 1234 Posh Street 🏠
 Cooltown, CH 12345 🇨🇭
 
-LinkedIn: [see here](https://linkedin.com/in/vaclav-sisl)
+LinkedIn: [see here](https://ch.linkedin.com/in/vaclav-sisl)
 
 Phone: +12 345 678 900 📞
 
 
 <p align="center">
-  <img src="chad.jpg" style="width: 10vw; border-radius: 50%" />
+  <img src="chad.jpg" style="width: 10vw; border-radius: 50%" alt="Image of Chad with rounded border" />
 </p>
 
 
