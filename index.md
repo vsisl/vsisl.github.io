@@ -35,7 +35,7 @@ Alongside the database, I also created a data-centric web application (a dashboa
 
 To cater to more advanced and customized data analytics tasks, I deployed a computational platform based on [JupyterHub](https://jupyter.org/hub) as a complementary data analytics solution further enhancing the overall capabilities of the system.
 
-## Processing and large volumes of text files
+## Processing large volumes of text files
 
 In another project, I dealt with processing large volumes (hundreds of thousands) of text files containing tabular data in fixed-width format. I built a pipeline that extracted, validated, and transformed the data before storing them to a centralized database. 
 
@@ -43,17 +43,15 @@ With the database in place, I proceeded with generating summaries and analyses a
 
 ------------------------------------------------------------------------------------------------------------
 <a id="contact">
-# Contact 
+# Contact
 
 **Vaclav SISL - data, energy, sustainability**\
 Dialogweg 6\
 8050 Zurich\
 Switzerland
 
-[comment]: Let's connect on [LinkedIn](https://ch.linkedin.com/in/vaclav-sisl).
-
 ![me](me.png){:width="180", :align="left"}
 
-[comment]: vaclav.sisl@gmail.com\
-[comment]: +41 77 969 18 15
+Find me on [LinkedIn](https://ch.linkedin.com/in/vaclav-sisl).
+
 
